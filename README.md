@@ -1,2 +1,2 @@
-# <a href="Blog Page/index.html">First-html-css-proj</a>
+# First-html-css-proj
 It was my first project on html and css
